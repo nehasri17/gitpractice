@@ -1,0 +1,6 @@
+<project name="online_shopping>"
+<echo> This is a Sample Project</echo>
+<target name="createdir">
+<mkdir dir="/tmp/jenkins_dir">
+</target>
+</project>
